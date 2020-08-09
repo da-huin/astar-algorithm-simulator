@@ -11,8 +11,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/da-huin/cloud_requests.svg)](https://github.com/da-huin/cloud_requests/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/da-huin/cloud_requests.svg)](https://github.com/da-huin/cloud_requests/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/da-huin/astar_algorithm_simulator.svg)](https://github.com/da-huin/astar_algorithm_simulator/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/da-huin/astar_algorithm_simulator.svg)](https://github.com/da-huin/astar_algorithm_simulator/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -64,7 +64,7 @@
 
 - Title icon made by [Freepik](https://www.flaticon.com/kr/authors/freepik).
 
-- If you have a problem. please make [issue](https://github.com/da-huin/cloud_requests/issues).
+- If you have a problem. please make [issue](https://github.com/da-huin/astar_algorithm_simulator/issues).
 
 - Please help develop this project 😀
 
