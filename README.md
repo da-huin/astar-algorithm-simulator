@@ -6,7 +6,7 @@
  
 </p>
 
-<h3 align="center">ASTAR SIMULATOR</h3>
+<h3 align="center">ASTAR ALGORITHM SIMULATOR</h3>
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 ---
 
 <p align="center"> 
-    <br> SIMPLE ASTAR SIMULATOR
+    <br> Simple AStar Algorithm simulator using Unity
 </p>
 
 ## 📝 Table of Contents
