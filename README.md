@@ -30,7 +30,7 @@
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-### Tutorial
+### 🚀 Tutorial
 
 1. **Execute Simulator**
 
